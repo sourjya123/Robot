@@ -1,8 +1,8 @@
 # Robot
-1. http://localhost:1234/robot/position ---> this will find the current position of a bot and also save as csv. This is POST Api.
-step1: open postman
-step2: select body and also select raw as json
-step3: paste the below request
+1. http://localhost:1234/robot/position ---> this will find the current position of a bot and also save as csv. This is POST Api.<br>
+step1: open postman<br>
+step2: select body and also select raw as json<br>
+step3: paste the below request<br>
 {
 
    "Position":{
