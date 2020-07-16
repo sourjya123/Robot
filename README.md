@@ -1,8 +1,15 @@
 # Robot
+
+Download Postman from below url
+https://www.postman.com/downloads/
+
+Install the postman on your machine.
+Then add a new tab and put the below url and follow below steps.
+
 1. http://localhost:1234/robot/position ---> this will find the current position of a bot and also save as csv. This is POST Api.<br>
 step1: open postman<br>
-step2: select body and also select raw as json<br>
-step3: paste the below request<br>
+step2: select body and also select raw as json<br>. Select POST operation from the left side.
+step3: paste the below request as body.<br>
 {
 
    "Position":{
