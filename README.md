@@ -39,17 +39,17 @@ step3: paste the below request<br>
 
 }
 
-output: 
-a. response status 201 created
-b. response body 
+output: <br>
+a. response status 201 created<br>
+b. response body <br>
 {
     "direction": "W",
     "y": 10,
     "x": 40
-}
-2. http://localhost:1234/robot/position/from-file ---> this will read the current position of bot from csv. This is GET Api.
-once you hit this url
-response body
+}<br>
+2. http://localhost:1234/robot/position/from-file ---> this will read the current position of bot from csv. This is GET Api.<br>
+once you hit this url<br>
+response body<br>
 {
     "direction": "W",
     "y": 10,
