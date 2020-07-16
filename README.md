@@ -40,8 +40,8 @@ step3: paste the below request<br>
 }
 
 output: 
-1. response status 201 created
-2. response body 
+a. response status 201 created
+b. response body 
 {
     "direction": "W",
     "y": 10,
